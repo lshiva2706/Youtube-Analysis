@@ -6,7 +6,7 @@
 These insights are provided by good exploratory data analysis for youtubers on the dashboard for their channel growth, including predicting the category using title-based description provided by the creator.
 
 •This dataset contains data on daily trending YouTube videos from several months (and counting). Data is available for the US, GB, DE, CA, FR,  RU, MX, KR, JP and IN regions (United States, Great Britain, Germany, Canada, France, Russia, Mexico, South Korea, Japan and India respectively).
-
+ 
 
 
 
